@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.gpch</groupId>
-    <artifactId>login</artifactId>
+    <artifactId>report-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>login</name>
-    <description>Demo project for Spring Boot</description>
+    <name>report-server</name>
+    <description>Server side + web frontend for a stats reporter</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
