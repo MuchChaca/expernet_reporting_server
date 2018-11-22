@@ -1,4 +1,4 @@
-package main.java.com.gpch.login.repository;
+package com.gpch.login.repository;
 
 import com.gpch.login.model.Game;
 import org.springframework.data.jpa.repository.JpaRepository;
